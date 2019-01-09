@@ -1,0 +1,27 @@
+{
+  "name": "memory-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruzayye/memory-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruzayye/memory-db/issues"
+  },
+  "homepage": "https://github.com/cruzayye/memory-db#readme",
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "shortid": "^2.2.14"
+  }
+}
